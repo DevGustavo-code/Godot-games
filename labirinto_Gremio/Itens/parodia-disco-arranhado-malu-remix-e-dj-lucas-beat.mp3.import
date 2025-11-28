@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/parodia-disco-arranhado-malu-remix-e-dj-lucas-beat.mp3-35e315167ce7a05964c1ca313aadbae8.mp3str"
+
+[deps]
+
+source_file="res://Itens/parodia-disco-arranhado-malu-remix-e-dj-lucas-beat.mp3"
+dest_files=[ "res://.import/parodia-disco-arranhado-malu-remix-e-dj-lucas-beat.mp3-35e315167ce7a05964c1ca313aadbae8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
