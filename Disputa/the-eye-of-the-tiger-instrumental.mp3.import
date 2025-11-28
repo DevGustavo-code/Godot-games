@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/the-eye-of-the-tiger-instrumental.mp3-8d8518bf60003d6d25b05d54f23e892b.mp3str"
+
+[deps]
+
+source_file="res://the-eye-of-the-tiger-instrumental.mp3"
+dest_files=[ "res://.import/the-eye-of-the-tiger-instrumental.mp3-8d8518bf60003d6d25b05d54f23e892b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
