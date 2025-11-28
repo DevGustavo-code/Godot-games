@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/aria-math-minecraft-volume-beta.mp3-fb58b77e4c003149777e205b9860551f.mp3str"
+
+[deps]
+
+source_file="res://Elementos/Itens/aria-math-minecraft-volume-beta.mp3"
+dest_files=[ "res://.import/aria-math-minecraft-volume-beta.mp3-fb58b77e4c003149777e205b9860551f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
